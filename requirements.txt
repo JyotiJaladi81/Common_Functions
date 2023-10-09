@@ -1,0 +1,7 @@
+playsound==1.2.2
+gtts
+torch
+pandas
+numpy
+ctypes
+sklearn
